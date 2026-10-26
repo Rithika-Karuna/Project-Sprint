@@ -1,4 +1,4 @@
-# 🚀 Project Sprint — Student Project Management UI/UX
+# Project Sprint — Student Project Management UI/UX
 
 **Project Sprint** is a student-focused project management UI/UX design concept created to help college students organize academic projects, manage tasks, keep track of deadlines, and monitor project progress.
 
